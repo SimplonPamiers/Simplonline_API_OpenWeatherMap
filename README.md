@@ -21,9 +21,9 @@ Maquette de la version desktop de l’application
 Scénarios utilisateur
 
 ### Compétences couvertes
-C1 - Maquetter une application (niveau 2)
-C4 - Développer une interface utilisateur (niveau 2)
-C8 - Développer une application simple de mobilité numérique (niveau 1)
+* C1 - Maquetter une application (niveau 2)
+* C4 - Développer une interface utilisateur (niveau 2)
+* C8 - Développer une application simple de mobilité numérique (niveau 1)
 
 ### Critères d’évaluation
 - Les interfaces sont conformes aux maquettes de l’application
@@ -57,9 +57,9 @@ En tant qu’utilisateur je peux avoir accès au site depuis n’importe quel na
 - Utilisation de Html, CSS, jQuery
 
 ### Livrables de l’exercice :
-L1 : La maquette de la version mobile du site internet
-L2 : Le code source est rendu disponible
-L3 : Lien internet vers le projet (voir exercice "Héberger un projet en ligne et partager ses recherches")
+* L1 : La maquette de la version mobile du site internet
+* L2 : Le code source est rendu disponible
+* L3 : Lien internet vers le projet (voir exercice "Héberger un projet en ligne et partager ses recherches")
 
 Autocorrection en binôme suivant les critères d’évaluation. 
 
