@@ -1,7 +1,7 @@
 ##### Objectifs
 Manipuler les données d'une API avec des requêtes Ajax pour afficher des informations dynamiquement sur un site web.
 Maquetter une application mobile.
-Développer une solution numérique responsive
+Développer une solution numérique responsive et dynamique
 
 ##### Contexte
 Le web mobile représente aujourd’hui près de 56% des visites de sites internet et est donc un des moyens indispensables lorsqu’il est question d’atteindre une cible donnée. Ainsi, la bonne compréhension des problématiques possibles et inhérentes au développement et à la construction d’une solution numérique est primordiale.
