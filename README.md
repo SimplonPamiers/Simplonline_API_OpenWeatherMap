@@ -26,6 +26,7 @@ Scénarios utilisateur
 * C8 - Développer une application simple de mobilité numérique (niveau 1)
 
 ### Critères d’évaluation
+- Ajax est utilisé
 - Les interfaces sont conformes aux maquettes de l’application
 - La charte graphique est respectée
 - Le code source des composants est documenté
@@ -54,7 +55,7 @@ En tant qu’utilisateur je peux avoir accès au site depuis n’importe quel na
 
 ### Contraintes
 - Le site doit être responsive
-- Utilisation de Html, CSS, jQuery
+- Utilisation de Html, CSS, jQuery, Ajax
 
 ### Livrables de l’exercice :
 * L1 : La maquette de la version mobile du site internet
